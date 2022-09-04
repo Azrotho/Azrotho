@@ -1,4 +1,4 @@
-## Bonjour moi c'est Azrotho et j'aime le code (surtout en privé miam miam). 👏
+## Bonjour moi c'est Azrotho et normalement je code principalement en Java (sauf que c'est en privé :c) 👋
 
 
 ### Mes Trophées 🏆
