@@ -9,7 +9,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=azrotho&show_icons=true&theme=radical&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azrotho&layout=compact&theme=radical&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=azrotho&theme=dark&hide_border=false)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=azrotho&theme=radical&locale=fr&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 <!--
