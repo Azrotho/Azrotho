@@ -1,4 +1,5 @@
 ## Bonjour moi c'est Azrotho 👋
+#### Et je suis un développeur de 17 ans
 
 ![](https://dcbadge.vercel.app/api/shield/320579371712643072)
 ![](https://komarev.com/ghpvc/?username=azrotho&color=0e75b6&style=for-the-badge)
