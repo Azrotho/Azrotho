@@ -39,5 +39,5 @@ jobs:
           plugin_steam_games_limit: 4
           plugin_steam_recent_games_limit: 4
           plugin_wakatime_sections: time, editor, os
-          config_order: base.header, wakatime, isocalendar, languages, achevements, anilist, steam
+          config_order: base.header, wakatime, isocalendar, languages, achievements, anilist, steam
           config_timezone: Europe/Paris
