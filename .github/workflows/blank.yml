@@ -19,7 +19,6 @@ jobs:
           plugin_isocalendar: yes
           config_display: large
           plugin_languages: yes
-          plugin_stars: yes
           plugin_languages_details: percentage
           plugin_achievements: true
           plugin_achievements_secrets: true
