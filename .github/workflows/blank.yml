@@ -17,6 +17,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header
           plugin_isocalendar: yes
+          
           config_display: large
           plugin_languages: yes
           plugin_languages_details: percentage
@@ -28,5 +29,9 @@ jobs:
           plugin_anilist_medias: anime
           plugin_anilist_limit: 32
           plugin_anilist_sections: favorites, watching
-          config_order: base.header, isocalendar, languages, achevements, anilist
+          plugin_wakatime: true
+          plugin_wakatime_token: ${{ secrets.WAKA_TOKEN }}
+          plugin_wakatime_user: Azrotho
+          plugin_wakatime_sections: time, editor, os
+          config_order: base.header, wakatime, isocalendar, languages, achevements, anilist
           config_timezone: Europe/Paris
