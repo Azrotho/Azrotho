@@ -26,7 +26,7 @@ jobs:
           plugin_anilist: true
           plugin_anilist_user: Azrotho
           plugin_anilist_medias: anime
-          plugin_anilist_limit: 8
-          plugin_anilist_sections: favorites
+          plugin_anilist_limit: 32
+          plugin_anilist_sections: favorites, watching
           config_order: base.header, isocalendar, languages, achevements
           config_timezone: Europe/Paris
