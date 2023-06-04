@@ -15,7 +15,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community
+          base: header, activity, community, repositories
           template: classic
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
@@ -36,5 +36,5 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKA_TOKEN }}
           plugin_wakatime_sections: time, editor, os
           plugin_fortune: true
-          config_order: base.header, wakatime, base.activity+community, base.repositories, isocalendar, languages, achievements, anilist, fortune
+          config_order: base.header, wakatime, base.activity+community+repositories, isocalendar, languages, achievements, anilist, fortune
           config_timezone: Europe/Paris
