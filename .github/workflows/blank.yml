@@ -34,7 +34,7 @@ jobs:
           plugin_wakatime: true
           plugin_wakatime_days: 365
           plugin_wakatime_token: ${{ secrets.WAKA_TOKEN }}
-          plugin_wakatime_sections: time, editor, os
+          plugin_wakatime_sections: time, languages, languages-graphs, editors, editors-graph, os
           plugin_fortune: true
           config_order: base.header, wakatime, base.activity+community, base.repositories, isocalendar, languages, achievements, anilist, fortune
           config_timezone: Europe/Paris
