@@ -23,7 +23,7 @@ jobs:
           plugin_languages: yes
           plugin_languages_details: percentage
           plugin_achievements: true
-          plugin_achievements_secrets: true
+          plugin_achievements_secrets: false
           plugin_achievements_display: detailed
           plugin_anilist: true
           plugin_anilist_user: Azrotho
