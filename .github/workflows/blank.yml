@@ -25,7 +25,7 @@ jobs:
           plugin_anilist: true
           plugin_anilist_user: Azrotho
           plugin_anilist_medias: anime
-          plugin_anilist_limit: 32
+          plugin_anilist_limit: 128
           plugin_anilist_sections: favorites, watching
           plugin_wakatime: true
           plugin_wakatime_days: 7
