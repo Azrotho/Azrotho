@@ -145,7 +145,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1510 Commits
+                            1511 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2309,19 +2309,19 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="747.2062178993898" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="747.2062178993898" y="0" width="60.5829112904669" height="8" fill="#355570"/>
-                    <rect mask="url(#languages-bar)" x="807.7891291898567" y="0" width="51.66706186581721" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="859.4561910556738" y="0" width="23.689333202097387" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="883.1455242577712" y="0" width="15.184058411925768" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="898.329582669697" y="0" width="10.583873190286154" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="908.9134558599832" y="0" width="4.956736877896884" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="913.87019273788" y="0" width="1.5074983446375203" height="8" fill="#0000cc"/>
-                    <rect mask="url(#languages-bar)" x="915.3776910825176" y="0" width="1.4411272571091107" height="8" fill="#3c5caa"/>
-                    <rect mask="url(#languages-bar)" x="916.8188183396267" y="0" width="1.2430430036328495" height="8" fill="#00ADD8"/>
-                    <rect mask="url(#languages-bar)" x="918.0618613432595" y="0" width="0.8731142289590007" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="918.9349755722185" y="0" width="0.8376134146996188" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="919.7725889869181" y="0" width="0.22741101308183753" height="8" fill="#60AFFE"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="746.8628860504765" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="746.8628860504765" y="0" width="60.55507420553956" height="8" fill="#355570"/>
+                    <rect mask="url(#languages-bar)" x="807.417960256016" y="0" width="51.643321501439395" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="859.0612817574554" y="0" width="23.678448251767797" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="882.7397300092233" y="0" width="15.177081528270772" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="897.916811537494" y="0" width="11.00173844992873" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="908.9185499874228" y="0" width="4.954459319712681" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="913.8730093071355" y="0" width="1.5068056681293496" height="8" fill="#0000cc"/>
+                    <rect mask="url(#languages-bar)" x="915.3798149752648" y="0" width="1.4404650772799688" height="8" fill="#3c5caa"/>
+                    <rect mask="url(#languages-bar)" x="916.8202800525448" y="0" width="1.2424718410240643" height="8" fill="#00ADD8"/>
+                    <rect mask="url(#languages-bar)" x="918.0627518935688" y="0" width="0.8727130439643366" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="918.9354649375332" y="0" width="0.8372285418821096" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="919.7726934794154" y="0" width="0.22730652058470052" height="8" fill="#60AFFE"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -2333,7 +2333,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>81.22%</div>
+                                <div>81.18%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2379,7 +2379,7 @@
                                 GDScript
                             </div>
                             <small>
-                                <div>6.59%</div>
+                                <div>6.58%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2390,7 +2390,7 @@
                                 C++
                             </div>
                             <small>
-                                <div>1.15%</div>
+                                <div>1.2%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2414,7 +2414,7 @@
                                 Shell
                             </div>
                             <small>
-                                <div>5.62%</div>
+                                <div>5.61%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -2487,7 +2487,7 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #E7890C">Your fortune: Good Luck</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
